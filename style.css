@@ -358,6 +358,10 @@ footer {
 	display: none;
 }
 
+.herotwo {
+	display: none;
+}
+
 /* =responsive===== */
 
 @media only screen and (max-width: 767px) {
@@ -406,9 +410,7 @@ footer {
 	padding: 100px 20px;
 }
 
-.herotwo {
-	display: none;
-}
+
 
 /* ===menu====== */
 
