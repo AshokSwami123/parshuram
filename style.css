@@ -354,9 +354,7 @@ footer {
 	font-family: "Inter", sans-serif;
 }
 
-.navbar {
-	display: none;
-}
+
 
 .herotwo {
 	display: none;
@@ -414,7 +412,9 @@ footer {
 
 /* ===menu====== */
 
-
+.navbar {
+	display: none;
+}
 
 }
 
